@@ -6,6 +6,7 @@
 *	Professor: Grace Comp
 *	Class: CISP 1020
 *	Date: Februrary 12, 2025
+*	Brief Description: Program that takes a string and reverses it, then outputs it. 
 * 
 * 
 */
