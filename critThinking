@@ -1,0 +1,13 @@
+requirements:
+- Function that accepts a pointer to a C-string as an argument
+- Function should display the string backwards.
+- User inputs the string, then the string is passed to the function.
+
+
+
+	Main concerns are that strings are technically arrays of chars.
+Passing as a pointer should be easily done. 
+
+	Function can be made with two strategies. Either take the pointer
+and add to the mem-address to iterate, or add the string to a
+vector/dynamically allocated array (but backwards.)
